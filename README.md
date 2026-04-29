@@ -1,13 +1,6 @@
 # YouTube-Analytics-Dashboard
 This project presents an interactive YouTube Analytics Dashboard built to analyze global YouTube data. It provides insights into channel performance, content trends, and earnings distribution using advanced visualizations.
 
-🎯 Objectives
-
-Analyze subscriber and view trends over time.
-Identify top-performing channels and categories.
-Understand content performance and engagement.
-Explore relationship between subscribers, views, and earnings.
-
 🛠️ Tools & Technologies
 Power BI
 Data Cleaning & Transformation
