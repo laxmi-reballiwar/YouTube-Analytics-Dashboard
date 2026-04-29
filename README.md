@@ -3,9 +3,9 @@ This project presents an interactive YouTube Analytics Dashboard built to analyz
 
 
 🛠️ Tools & Technologies
-Power BI
-Data Cleaning & Transformation
-Data Visualization Techniques
+    Power BI
+    Data Cleaning & Transformation
+    Data Visualization Techniques
 
 📊 Dashboard Features
 
@@ -14,11 +14,13 @@ Data Visualization Techniques
     Average Views per Video
     Views in Last 30 Days
     Views Growth Over Time
+    
 🔹 Content Performance
    Top Channels by Subscribers
    Views by Category
    Content Performance (Views vs Videos)
    Average Views per Video by Channel
+   
 🔹 Insights & Conclusion
    Earnings Contribution by Channel
    Subscribers vs Earnings Analysis
@@ -34,6 +36,7 @@ Total Views & Views (Last 30 Days)
 Total Videos
 Earnings (Min, Max, Yearly, Monthly)
 Date-related fields (Year, Month)
+
 📌 Dataset file is uploaded separately in this repository.
 
 🎥 Demo Video
@@ -43,8 +46,11 @@ Interactive filtering
 Key insights from visualizations
 
 📸 Dashboard Snapshot
+
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Overview_page.png)
+
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Content_performance.png)
+
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Insights_page.png)
 
 🔍 Key Insights
