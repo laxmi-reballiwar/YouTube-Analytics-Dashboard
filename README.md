@@ -65,7 +65,7 @@ The dataset contains information about:
 - Content consistency impacts performance 
 - Certain channels achieve high views with fewer uploads
 
-#🚀 How to Use :
+🚀 How to Use :
 - Download the .pbix file
 - Open using Power BI Desktop
 - Interact with filters and visuals to explore insights
