@@ -1,18 +1,18 @@
 # YouTube-Analytics-Dashboard
 This project presents an interactive YouTube Analytics Dashboard built to analyze global YouTube data. It provides insights into channel performance, content trends, and earnings distribution using advanced visualizations.
 
-#🎯 Objectives
+🎯 Objectives
 -Analyze subscriber and view trends over time
 -Identify top-performing channels and categories
 -Understand content performance and engagement
 -Explore relationship between subscribers, views, and earnings
 
-#🛠️ Tools & Technologies 
+🛠️ Tools & Technologies 
 -Power BI
 -Data Cleaning & Transformation
 -Data Visualization Techniques
 
-#📊 Dashboard Features
+📊 Dashboard Features
 
 🔹 YouTube Overview
 -Total Subscribers, Views, Videos
@@ -32,7 +32,7 @@ This project presents an interactive YouTube Analytics Dashboard built to analyz
 -Category Performance Comparison
 -Content Upload Trend
 
-#📂 Dataset
+📂 Dataset
 The dataset contains information about:
 -Channel Name
 -Category & Channel Type
@@ -44,13 +44,13 @@ The dataset contains information about:
 
 📌 Dataset file is uploaded separately in this repository.
 
-#🎥 Demo Video
+🎥 Demo Video
 -A demo video of the dashboard is included to showcase
 -Navigation across pages
 -Interactive filtering
 -Key insights from visualizations
 
-#📸 Dashboard Snapshot
+📸 Dashboard Snapshot
 
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Overview_page.png)
 
@@ -58,11 +58,11 @@ The dataset contains information about:
 
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Insights_page.png)
 
-#🔍 Key Insights :
--Music category dominates in total views
--Top channels contribute significantly to earnings
--High subscribers do not always guarantee high engagement
--Content consistency impacts performance 
+🔍 Key Insights :
+- Music category dominates in total views
+- Top channels contribute significantly to earnings
+- High subscribers do not always guarantee high engagement
+- Content consistency impacts performance 
 -Certain channels achieve high views with fewer uploads
 
 #🚀 How to Use :
