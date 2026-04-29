@@ -48,9 +48,9 @@ Interactive filtering
 Key insights from visualizations
 
 📸 Dashboard Snapshot
-![Overview](assets/Overview_page.png)
-![Content Performance](assets/Content_performance.png)
-![Insights](assets/Insights_page.png)
+![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Overview_page.png)
+![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Content_performance.png)
+![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Insights_page.png)
 
 🔍 Key Insights
 Music category dominates in total views
