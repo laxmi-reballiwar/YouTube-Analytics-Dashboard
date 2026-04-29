@@ -2,10 +2,10 @@
 This project presents an interactive YouTube Analytics Dashboard built to analyze global YouTube data. It provides insights into channel performance, content trends, and earnings distribution using advanced visualizations.
 
 
-🛠️ Tools & Technologies
-    Power BI
-    Data Cleaning & Transformation
-    Data Visualization Techniques
+🛠️ Tools & Technologies :
+    Power BI,
+    Data Cleaning & Transformation,
+    Data Visualization Techniques.
 
 📊 Dashboard Features
 
@@ -53,14 +53,14 @@ Key insights from visualizations
 
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Insights_page.png)
 
-🔍 Key Insights
-Music category dominates in total views
-Top channels contribute significantly to earnings
-High subscribers do not always guarantee high engagement
-Content consistency impacts performance
-Certain channels achieve high views with fewer uploads
+🔍 Key Insights :
+Music category dominates in total views, 
+Top channels contribute significantly to earnings, 
+High subscribers do not always guarantee high engagement, 
+Content consistency impacts performance, 
+Certain channels achieve high views with fewer uploads.
 
-🚀 How to Use
-Download the .pbix file
-Open using Power BI Desktop
-Interact with filters and visuals to explore insights
+🚀 How to Use :
+Download the .pbix file, 
+Open using Power BI Desktop,
+Interact with filters and visuals to explore insights.
