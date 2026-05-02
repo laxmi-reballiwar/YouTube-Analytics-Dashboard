@@ -44,12 +44,6 @@ The dataset contains information about:
 
 📌 Dataset file is uploaded separately in this repository.
 
-🎥 Demo Video
-- A demo video of the dashboard is included to showcase
-- Navigation across pages
-- Interactive filtering
-- Key insights from visualizations
-
 📸 Dashboard Snapshot
 
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Overview_page.png)
@@ -57,6 +51,14 @@ The dataset contains information about:
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Content_performance.png)
 
 ![Dashboard](https://github.com/laxmi-reballiwar/YouTube-Analytics-Dashboard/blob/main/Insights_page.png)
+
+🎥 Demo Video
+- A demo video of the dashboard is included to showcase
+- Navigation across pages
+- Interactive filtering
+- Key insights from visualizations
+
+[Dashboard Demo](https://www.linkedin.com/feed/update/urn:li:activity:7455504317278715904/)
 
 🔍 Key Insights :
 - Music category dominates in total views
